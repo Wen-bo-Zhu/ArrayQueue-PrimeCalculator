@@ -1,4 +1,4 @@
-package hw3;
+package ;
 
 public interface Queue<E> {
 
