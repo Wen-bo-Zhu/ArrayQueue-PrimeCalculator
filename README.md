@@ -26,12 +26,16 @@ the primes from 2 to n to System.out. The primes are separated by a space or a c
 ● Check if the user tries to call primesTo(int n) with n < 2, a proper
 Exception/Error message is thrown.
 
-Example​​output
+Example output:
 Please enter upper bound
 20
+
 Primes up to 20 are: 2, 3, 5, 7, 11, 13, 17, 19Please enter upper bound
 2
+
 Primes up to 2 are: 2
+
 Please enter upper bound
 0
+
 Error: Input must be a number greater than 2.
