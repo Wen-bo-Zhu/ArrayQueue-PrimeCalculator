@@ -30,7 +30,10 @@ Example output:
 Please enter upper bound
 20
 
-Primes up to 20 are: 2, 3, 5, 7, 11, 13, 17, 19Please enter upper bound
+Primes up to 20 are: 2, 3, 5, 7, 11, 13, 17, 19
+
+Please enter upper bound
+
 2
 
 Primes up to 2 are: 2
