@@ -1,4 +1,4 @@
-package hw3;
+package ;
 
 public class ArrayQueue<E> implements Queue<E> {
 	  // instance variables
